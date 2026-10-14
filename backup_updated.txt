@@ -1,0 +1,16 @@
+are:data/file1.txt:1
+c:data/file3.txt:1
+embedded:data/file3.txt:1
+hello:data/file1.txt:2
+hello:data/file2.txt:1
+hello:data/file3.txt:1
+hi:data/file1.txt:2
+hi:data/file2.txt:1
+how:data/file1.txt:1
+inverted:data/file2.txt:1
+is:data/file2.txt:1
+programming:data/file3.txt:1
+project:data/file2.txt:1
+search:data/file2.txt:1
+this:data/file2.txt:1
+you:data/file1.txt:1

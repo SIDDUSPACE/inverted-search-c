@@ -1,0 +1,32 @@
+
+# Compiled executables
+*.exe
+*.out
+# Object files
+*.o
+*.obj
+# Debugging files
+*.pdb
+*.ilk
+*.stackdump
+# Core dumps
+core
+core.*
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+# Temporary and log files
+*.tmp
+*.temp
+*.log
+# Keep the project source, sample data, and backups tracked
+!data/
+!backup.txt
+!backup_updated.txt
